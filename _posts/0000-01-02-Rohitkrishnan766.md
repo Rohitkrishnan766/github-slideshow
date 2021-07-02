@@ -1,4 +1,0 @@
----
-Layout:slide
-Title:"welcome to our second slide!"
----
